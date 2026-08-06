@@ -1,5 +1,12 @@
 # API de Usuários — NestJS (armazenamento em memória)
 
+## Integrantes
+
+- André dos Santos
+- André de Carvalho Prado
+- Leonardo Patez Libanori
+- Lucas Ribeiro Jorge
+
 Atividade da Faculdade Impacta: API com Node.js e NestJS que permite armazenar
 usuários (nome e e-mail), consultar todos, ler apenas um e excluir um usuário,
 usando **apenas a memória** como armazenamento.
